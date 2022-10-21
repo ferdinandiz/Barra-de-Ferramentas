@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ntm8KaAMvQhcn0glEZB0ZzapdzFbgkgsUZLOYD807QasPZdza9r89BP44B/vZkr3hpqIiq3VZb4ijMk89AWlNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fernando.abadia.ps\\source\\repos\\app\\Barra-de-Ferramentas\\Barra de Ferramentas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fernando.abadia.ps\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.9\\microsoft.netcore.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\fernando.abadia.ps\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\fernando.abadia.ps\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x86.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

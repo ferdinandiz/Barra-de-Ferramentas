@@ -113,13 +113,6 @@ namespace Barra_de_Ferramentas
         /// </summary>
         /// 
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            Size size = TextRenderer.MeasureText(textBox1.Text, textBox1.Font);
-            textBox1.Width = size.Width;
-            textBox1.Height = size.Height;
-        }
-
         private void InitializeComponent()
         {
             int screenWidth = Screen.PrimaryScreen.Bounds.Width;
@@ -156,10 +149,10 @@ namespace Barra_de_Ferramentas
             this.pictureBox2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(679, 0);
+            this.pictureBox2.Location = new System.Drawing.Point(screenWidth - (screenWidth - this.pictureBox1.Image.Width), 0);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(0);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(961, 40);
+            this.pictureBox2.Size = new System.Drawing.Size(970, 40);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
@@ -168,7 +161,7 @@ namespace Barra_de_Ferramentas
             // 
             this.pictureBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(screenWidth-280, 0);
+            this.pictureBox3.Location = new System.Drawing.Point(screenWidth-this.pictureBox3.Image.Width, 0);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(0);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(1920, 40);
@@ -197,15 +190,15 @@ namespace Barra_de_Ferramentas
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(screenWidth, 40);
-            this.MinimumSize = new Size(0, 80);
-            this.MaximumSize = new Size(2*screenWidth, 80);
+            this.MinimumSize = new Size(0, 82);
+            this.MaximumSize = new Size(2*screenWidth, 82);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
-            this.Text = "Form1";
+            this.Text = "Barra de Tarefa";
             
             
 
@@ -223,6 +216,5 @@ namespace Barra_de_Ferramentas
         private PictureBox pictureBox1;
         private PictureBox pictureBox2;
         private PictureBox pictureBox3;
-        private TextBox textBox1;
     }
 }

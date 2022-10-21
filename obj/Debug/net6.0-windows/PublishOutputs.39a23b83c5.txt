@@ -1,0 +1,5 @@
+C:\Users\fernando.abadia.ps\Documents\Realease\Barra de Ferramentas.exe
+C:\Users\fernando.abadia.ps\Documents\Realease\Barra de Ferramentas.dll
+C:\Users\fernando.abadia.ps\Documents\Realease\Barra de Ferramentas.deps.json
+C:\Users\fernando.abadia.ps\Documents\Realease\Barra de Ferramentas.runtimeconfig.json
+C:\Users\fernando.abadia.ps\Documents\Realease\Barra de Ferramentas.pdb

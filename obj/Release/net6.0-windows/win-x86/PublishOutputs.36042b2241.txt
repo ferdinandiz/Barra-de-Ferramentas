@@ -1,0 +1,7 @@
+C:\Users\fernando.abadia.ps\Documents\Realease\Barrinha\Barra de Ferramentas.pdb
+C:\Users\fernando.abadia.ps\Documents\Realease\Barrinha\D3DCompiler_47_cor3.dll
+C:\Users\fernando.abadia.ps\Documents\Realease\Barrinha\PenImc_cor3.dll
+C:\Users\fernando.abadia.ps\Documents\Realease\Barrinha\PresentationNative_cor3.dll
+C:\Users\fernando.abadia.ps\Documents\Realease\Barrinha\vcruntime140_cor3.dll
+C:\Users\fernando.abadia.ps\Documents\Realease\Barrinha\wpfgfx_cor3.dll
+C:\Users\fernando.abadia.ps\Documents\Realease\Barrinha\Barra de Ferramentas.exe
