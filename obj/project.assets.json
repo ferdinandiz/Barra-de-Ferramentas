@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fernando.abadia.ps\\source\\repos\\app\\Barra de Ferramentas\\Barra de Ferramentas.csproj",
+      "projectUniqueName": "C:\\Users\\fernando.abadia.ps\\source\\repos\\app\\Barra-de-Ferramentas\\Barra de Ferramentas.csproj",
       "projectName": "Barra de Ferramentas",
-      "projectPath": "C:\\Users\\fernando.abadia.ps\\source\\repos\\app\\Barra de Ferramentas\\Barra de Ferramentas.csproj",
+      "projectPath": "C:\\Users\\fernando.abadia.ps\\source\\repos\\app\\Barra-de-Ferramentas\\Barra de Ferramentas.csproj",
       "packagesPath": "C:\\Users\\fernando.abadia.ps\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fernando.abadia.ps\\source\\repos\\app\\Barra de Ferramentas\\obj\\",
+      "outputPath": "C:\\Users\\fernando.abadia.ps\\source\\repos\\app\\Barra-de-Ferramentas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fernando.abadia.ps\\AppData\\Roaming\\NuGet\\NuGet.Config",

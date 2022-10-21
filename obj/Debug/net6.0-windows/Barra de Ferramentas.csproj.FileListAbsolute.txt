@@ -16,3 +16,21 @@ C:\Users\fernando.abadia.ps\source\repos\app\Barra de Ferramentas\obj\Debug\net6
 C:\Users\fernando.abadia.ps\source\repos\app\Barra de Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.genruntimeconfig.cache
 C:\Users\fernando.abadia.ps\source\repos\app\Barra de Ferramentas\obj\Debug\net6.0-windows\ref\Barra de Ferramentas.dll
 C:\Users\fernando.abadia.ps\source\repos\app\Barra de Ferramentas\obj\Debug\net6.0-windows\Barra_de_Ferramentas.Properties.Resources.resources
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\bin\Debug\net6.0-windows\Barra de Ferramentas.exe
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\bin\Debug\net6.0-windows\Barra de Ferramentas.deps.json
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\bin\Debug\net6.0-windows\Barra de Ferramentas.runtimeconfig.json
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\bin\Debug\net6.0-windows\Barra de Ferramentas.dll
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\bin\Debug\net6.0-windows\Barra de Ferramentas.pdb
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.csproj.AssemblyReference.cache
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra_de_Ferramentas.Form1.resources
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra_de_Ferramentas.Properties.Resources.resources
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.csproj.GenerateResource.cache
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.AssemblyInfoInputs.cache
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.AssemblyInfo.cs
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.csproj.CoreCompileInputs.cache
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.dll
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\refint\Barra de Ferramentas.dll
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.pdb
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\Barra de Ferramentas.genruntimeconfig.cache
+C:\Users\fernando.abadia.ps\source\repos\app\Barra-de-Ferramentas\obj\Debug\net6.0-windows\ref\Barra de Ferramentas.dll
